@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Guluma Tafa Dinki (Gule)</h1>
+<h1 align="center">Hi 👋, I'm Gule Best</h1>
 <h3 align="center">Software Engineering Student | Full Stack & Mobile App Developer | Aspiring Digital Marketer</h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ Over the years, I have gained hands-on experience building dynamic web and mobil
 Alongside my technical foundation, I am actively learning digital marketing strategies to help businesses grow through campaigns, content creation, and audience engagement.
 
 
-## 🚀 Academic & Personal Projects
+##  Academic & Personal Projects
 
 ### 🔹 **Student Management System**  
 Implemented with **Java** using OOP principles and database integration to manage student registration, attendance, and grading efficiently.
@@ -74,7 +74,7 @@ A pixel-perfect recreation of Apple’s landing page using **HTML5**, **CSS3**, 
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 - Email: **gulumabest694@gmail.com**  
 - Portfolio: [https://guluma-tafa-jm6f.vercel.app/](https://guluma-tafa-jm6f.vercel.app/)  
 - LinkedIn: [https://www.linkedin.com/in/guluma-best-1b2820329/](https://www.linkedin.com/in/guluma-best-1b2820329/)  
@@ -101,4 +101,4 @@ A pixel-perfect recreation of Apple’s landing page using **HTML5**, **CSS3**, 
 
 ## 😄 Fun Extras
 ```text
-Code. Learn. Build. Repeat. 🚀
+Code. Learn. Build. Repeat. 
