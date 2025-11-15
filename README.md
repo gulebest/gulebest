@@ -49,7 +49,7 @@ A pixel-perfect recreation of Apple’s landing page using **HTML5**, **CSS3**, 
 ##  Contact Me
 - Email: **gulumabest694@gmail.com**  
 - Portfolio: [https://guluma-tafa-jm6f.vercel.app/](https://guluma-tafa-jm6f.vercel.app/)  
-- Portfolio: [https://guluma-tafa-jm6f.vercel.app/](https://guluma-tafa-jm6f.vercel.app/)  
+- Likedin: [https://www.linkedin.com/in/guluma-best-1b2820329/](https://www.linkedin.com/in/guluma-best-1b2820329/) 
 - GitHub: [github.com/gulebest](https://github.com/gulebest)  
 ---
 ## 📊 GitHub Stats
