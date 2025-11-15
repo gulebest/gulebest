@@ -56,13 +56,6 @@ A pixel-perfect recreation of Apple’s landing page using **HTML5**, **CSS3**, 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gulebest&show_icons=true&theme=tokyonight" height="180px" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulebest&layout=compact&theme=tokyonight" height="180px" />
 </p>
----
-## Contribution Snake
-<p align="center">
-  <img src="https://github.com/gulebest/gulebest/blob/output/github-contribution-grid-snake.svg" />
-</p>
----
-
 ## Fun Extras
 ```text
 Code. Learn. Build. Repeat. 
