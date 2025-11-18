@@ -4,7 +4,7 @@
   Software Engineering Student | Full Stack & Mobile App Developer 
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3EC7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Lifelong+Learner+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3EC7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Lifelong+Learner+" />
 </p>
 
 ---
