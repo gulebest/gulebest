@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center" style="font-weight: 700; font-size: 3rem; color:#0EA5E9;">Hi 👋, I'm <span style="color:#0284C7;">Gule Best</span></h1>
 <h3 align="center" style="font-weight: 600; font-size: 1.5rem; color:#334155;">
-  Software Engineering Student | Full Stack & Mobile App Developer | Aspiring Digital Marketer
+  Software Engineering Student | Full Stack & Mobile App Developer 
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3EC7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Digital+Marketing+Enthusiast;Lifelong+Learner+🚀" />
@@ -14,7 +14,6 @@ Over the years, I have gained hands-on experience building **dynamic web and mob
 - **Java**, **Python**, **Node.js**, **PHP**, **JavaScript**  
 - **React**, **Flutter**, **Android Development**  
 - **SQL** and database integration  
-Alongside my technical foundation, I am actively learning **digital marketing strategies** to help businesses grow through campaigns, content creation, and audience engagement.
 
 ---
 ##  Academic & Personal Projects
