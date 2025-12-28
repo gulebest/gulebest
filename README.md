@@ -79,6 +79,7 @@ A pixel-perfect recreation of Apple's landing page built with **HTML5**, **CSS3*
 - Portfolio: [https://guluma-tafa-jm6f.vercel.app/](https://guluma-tafa-jm6f.vercel.app/)  
 - LinkedIn: [https://www.linkedin.com/in/guluma-best-1b2820329/](https://www.linkedin.com/in/guluma-best-1b2820329/)  
 - GitHub: [github.com/gulebest](https://github.com/gulebest)  
+- Upwork: [https://www.upwork.com/freelancers/~01b4c1c0422cb412d7](https://www.upwork.com/freelancers/~01b4c1c0422cb412d7)
 
 ---
 ## 📊 GitHub Stats
