@@ -9,7 +9,7 @@
 
 ---
 ## 👨‍💻 About Me
-I am a **Software Engineering student** at **Addis Ababa University**, specializing in full-stack and mobile app development.  
+I am a **Software Engineering student** at **Haramaya University**, specializing in full-stack and mobile app development.  
 Over the years, I have gained hands-on experience building **dynamic web and mobile applications**, managing databases, and creating user-friendly systems using modern technologies such as:
 -  **Node.js**, **PHP**, **JavaScript** **Java**, **Python**, 
 - **React**, **Flutter**, **Android Development**  
