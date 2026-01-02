@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **Software Engineering student at Haramaya University** with a strong focus on **full-stack, backend, and mobile application development**.  
 I specialize in building **scalable, real-world systems** that combine clean architecture, database-driven logic, and modern user interfaces.
@@ -32,7 +32,7 @@ I have hands-on experience developing:
 
 ---
 
-## 🚀 Academic & Personal Projects
+##  Academic & Personal Projects
 
 ### 🔹 Student Management System
 **Technologies:** Java, OOP, Database Integration  
