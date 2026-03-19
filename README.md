@@ -124,7 +124,7 @@ A pixel-perfect recreation of Apple’s landing page with a strong focus on layo
 
 ## 🧠 AI & Mobile-Focused Projects
 
-### 🔹 AI Trip Planner (Ongoing)
+### 🔹 AI Trip Planner 
 **Technologies:** Flutter, AI APIs  
 An AI-powered mobile application designed to help users plan trips intelligently by leveraging AI-driven recommendations and modern mobile UI design.
 
