@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3EC7F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Mobile+App+Developer;Backend+Specialist;AI-Integrated+Apps;Lifelong+Learner" />
 </p>
 
----
+
 
 ## About Me
 
