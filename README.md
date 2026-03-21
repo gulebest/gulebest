@@ -36,7 +36,7 @@ I have hands-on experience developing:
 
 ### 🔹 Student Management System
 **Technologies:** Java, OOP, Database Integration  
-A desktop-based system designed using object-oriented principles to manage student registration, attendance tracking, and grade management efficiently.
+A desktop-based system designed using object-oriented principles to manage student registration, attendance tracking, and grade management efficiently
 
 **Key Skills:**  
 - Object-Oriented Design  
