@@ -170,7 +170,7 @@ A Flutter-based AI-powered assistant app designed to provide intelligent, intera
 
 ## 📬 Contact Me
 - **Email:** gulumabest694@gmail.com  
-- **Portfolio:** https://guluma-tafa-twof.vercel.app/  
+- **Portfolio:** [https://guluma-tafa-twof.vercel.app/ ](https://guluma-tafa.vercel.app) 
 - **LinkedIn:** https://www.linkedin.com/in/guluma-best-1b2820329/  
 - **GitHub:** https://github.com/gulebest  
 - **Upwork:** https://www.upwork.com/freelancers/~01b4c1c0422cb412d7  
