@@ -184,11 +184,10 @@ A Flutter-based AI-powered assistant designed to provide intelligent and interac
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Stack
-
 ### Languages & Markup
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
@@ -197,15 +196,18 @@ A Flutter-based AI-powered assistant designed to provide intelligent and interac
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 ---
 
 ## 🛠️ Tools & Platforms
