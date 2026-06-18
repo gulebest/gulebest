@@ -4,137 +4,185 @@
 </h1>
 
 <h3 align="center" style="font-weight: 600; font-size: 1.5rem; color:#334155;">
-  Software Engineering Student | Full Stack & Mobile App Developer
+  Software Engineering Student | Full Stack, Mobile & AI Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3EC7F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Mobile+App+Developer;Backend+Specialist;AI-Integrated+Apps;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3EC7F7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+Native+%26+Flutter+Developer;Backend+Specialist;AI-Integrated+Applications;Building+Scalable+Digital+Products" />
 </p>
-
-
 
 ## About Me
 
-I am a **Software Engineering student at Haramaya University** with a strong focus on **full-stack, backend, and mobile application development**.  
-I specialize in building **scalable, real-world systems** that combine clean architecture, database-driven logic, and modern user interfaces.
+I am a **Software Engineering student at Haramaya University** with a strong focus on **full-stack, backend, mobile, and AI-powered application development**.
+I specialize in building **scalable, real-world systems** that combine clean architecture, database-driven logic, intelligent automation, and modern user experiences.
 
 I have hands-on experience developing:
 - **Web, mobile, and backend systems**
 - **AI-integrated applications**
 - **Distributed and real-time systems**
 - **Database-driven platforms**
+- **Cross-platform applications using Flutter and React Native**
+- **Production-ready enterprise solutions**
 
 ### Core Technologies
-- **Languages:** JavaScript, Dart, Java, PHP, Python  
-- **Frameworks:** React, Next.js, Flutter, Node.js, Express  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
-- **Tools:** Git, GitHub, Docker, AWS, Firebase  
+- **Languages:** JavaScript, TypeScript, Dart, Java, PHP, Python
+- **Frameworks:** React, Next.js, React Native, Expo, Flutter, Node.js, Express
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
+- **Tools:** Git, GitHub, Docker, AWS, Firebase, Vercel
 
 ---
 
-##  Academic & Personal Projects
+## 🚀 Featured Projects
+
+### 🔹 AI Fitness Coach App
+**Technologies:** React Native, Expo, TypeScript, AI APIs, Firebase
+
+A next-generation AI-powered fitness platform designed to provide personalized workout plans, intelligent coaching, progress tracking, nutrition recommendations, and real-time fitness insights.
+
+**Key Skills:**
+- React Native & Expo
+- TypeScript
+- AI Integration
+- Mobile Architecture
+- State Management
+- Firebase Services
+- API Integration
+- Cross-platform Development
+
+---
+
+### 🔹 Help Desk Management System (HDMS)
+**Technologies:** React, Node.js, Express.js, PostgreSQL
+
+A production-ready help desk and ticket management platform developed to streamline support operations, issue tracking, and service management workflows through role-based access control and responsive dashboards.
+
+**Key Skills:**
+- Full-Stack Development
+- React Ecosystem
+- Backend API Development
+- PostgreSQL Database Design
+- Authentication & Authorization
+- Enterprise System Architecture
+- RESTful APIs
+- Production Deployment
+
+---
+
+## Academic & Personal Projects
 
 ### 🔹 Student Management System
-**Technologies:** Java, OOP, Database Integration  
-A desktop-based system designed using object-oriented principles to manage student registration, attendance tracking, and grade management efficiently
+**Technologies:** Java, OOP, Database Integration
 
-**Key Skills:**  
-- Object-Oriented Design  
-- Database-backed systems  
-- Clean modular architecture  
+A desktop-based system designed using object-oriented principles to manage student registration, attendance tracking, and grade management efficiently.
+
+**Key Skills:**
+- Object-Oriented Design
+- Database-backed systems
+- Clean modular architecture
 
 ---
 
 ### 🔹 Online Job Application System
-**Technologies:** PHP, SQL, HTML, CSS, JavaScript  
-A full-stack web application enabling job posting, application submission, and applicant management. Designed database-driven workflows and responsive user interfaces for real-world recruitment processes.
+**Technologies:** PHP, SQL, HTML, CSS, JavaScript
 
-**Key Skills:**  
-- Backend logic & CRUD systems  
-- Relational database design  
-- Business workflow modeling  
+A full-stack web application enabling job posting, application submission, and applicant management.
+
+**Key Skills:**
+- Backend logic & CRUD systems
+- Relational database design
+- Business workflow modeling
 
 ---
 
 ### 🔹 Chatting Application (Distributed Systems)
-**Technologies:** Java, RMI  
-A real-time chatting system developed using Java RMI to explore distributed system concepts such as remote method invocation, client-server communication, and concurrency handling.
+**Technologies:** Java, RMI
 
-**Key Skills:**  
-- Distributed systems fundamentals  
-- Client-server architecture  
-- Java networking concepts  
+A real-time chatting system developed using Java RMI to explore distributed system concepts.
+
+**Key Skills:**
+- Distributed systems fundamentals
+- Client-server architecture
+- Java networking concepts
 
 ---
 
 ### 🔹 E-commerce Website
-**Technologies:** React, Firebase, JavaScript  
-A fully responsive e-commerce platform featuring product browsing, shopping cart management, secure checkout, and user authentication using Firebase services.
+**Technologies:** React, Firebase, JavaScript
 
-**Key Skills:**  
-- Frontend architecture  
-- Authentication systems  
-- Cloud-backed applications  
+A fully responsive e-commerce platform featuring product browsing, shopping cart management, secure checkout, and user authentication.
+
+**Key Skills:**
+- Frontend architecture
+- Authentication systems
+- Cloud-backed applications
 
 ---
 
 ### 🔹 Food Delivery Mobile App
-**Technologies:** Flutter, REST APIs  
-A cross-platform food delivery mobile application enabling restaurant browsing, order placement, and real-time delivery tracking. Focused on clean UI, state management, and API integration.
+**Technologies:** Flutter, REST APIs
 
-**Key Skills:**  
-- Mobile app development  
-- API consumption  
-- Real-time data handling  
+A cross-platform food delivery mobile application enabling restaurant browsing, order placement, and real-time delivery tracking.
+
+**Key Skills:**
+- Mobile app development
+- API consumption
+- Real-time data handling
 
 ---
 
 ### 🔹 Netflix Clone
-**Technologies:** React, Bootstrap, JavaScript, ExpressJS  
-A movie streaming platform clone supporting dynamic content browsing, user authentication, and video playback with frontend-backend integration.
+**Technologies:** React, Bootstrap, JavaScript, ExpressJS
 
-**Key Skills:**  
-- Full-stack JavaScript  
-- UI/UX implementation  
-- Media-rich applications  
+A movie streaming platform clone supporting dynamic content browsing and frontend-backend integration.
+
+**Key Skills:**
+- Full-stack JavaScript
+- UI/UX implementation
+- Media-rich applications
 
 ---
 
 ### 🔹 Momentify – Social Media App
-**Technologies:** React, Next.js, MongoDB, TypeScript, Tailwind CSS  
-A full-featured social media platform with user profiles, posts, real-time interactions, and responsive design built using modern full-stack technologies.
+**Technologies:** React, Next.js, MongoDB, TypeScript, Tailwind CSS
 
-**Key Skills:**  
-- Advanced full-stack development  
-- Real-time systems  
-- Scalable application design  
+A full-featured social media platform with user profiles, posts, and real-time interactions.
+
+**Key Skills:**
+- Advanced full-stack development
+- Real-time systems
+- Scalable application design
 
 ---
 
 ### 🔹 Apple Website Clone
-**Technologies:** HTML5, CSS3, JavaScript  
-A pixel-perfect recreation of Apple’s landing page with a strong focus on layout accuracy, animations, and responsive design.
+**Technologies:** HTML5, CSS3, JavaScript
 
-**Key Skills:**  
-- UI/UX precision  
-- Frontend fundamentals  
-- Attention to detail  
+A pixel-perfect recreation of Apple's landing page with responsive design and animations.
+
+**Key Skills:**
+- UI/UX precision
+- Frontend fundamentals
+- Attention to detail
 
 ---
 
 ## 🧠 AI & Mobile-Focused Projects
 
-### 🔹 AI Trip Planner 
-**Technologies:** Flutter, AI APIs  
-An AI-powered mobile application designed to help users plan trips intelligently by leveraging AI-driven recommendations and modern mobile UI design.
+### 🔹 AI Trip Planner
+**Technologies:** Flutter, AI APIs
+
+An AI-powered mobile application designed to help users plan trips intelligently.
 
 ---
 
 ### 🔹 Nova AI Assistant
-**Technologies:** Flutter, AI/NLP  
-A Flutter-based AI-powered assistant app designed to provide intelligent, interactive support across multiple tasks using natural language processing.
+**Technologies:** Flutter, AI/NLP
+
+A Flutter-based AI-powered assistant designed to provide intelligent and interactive support.
 
 ---
+
+## 🧰 Tech Stack
 
 ## 🧰 Tech Stack
 
