@@ -1,240 +1,131 @@
 <!-- Profile Header -->
-<h1 align="center" style="font-weight: 700; font-size: 3rem; color:#0EA5E9;">
-  Hi 👋, I'm <span style="color:#0284C7;">Gule Best</span>
-</h1>
+<div align="center">
+  <h1 style="font-size: 2.8rem; font-weight: 800; color: #0284C7; margin-bottom: 8px;">
+    Hi 👋, I'm <span style="color: #0EA5E9;">Guluma Tafa</span>
+  </h1>
+  <p style="font-size: 1.25rem; font-weight: 600; color: #475569; margin-top: 0;">
+    AI Automation & Full-Stack Mobile Engineer
+  </p>
 
-<h3 align="center" style="font-weight: 600; font-size: 1.5rem; color:#334155;">
-  Software Engineering Student | Full Stack, Mobile & AI Developer
-</h3>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=0EA5E9&center=true&vCenter=true&width=700&lines=Production+AI+Agents+%26+RAG+Systems;Cross-Platform+Mobile+(Flutter+%26+React+Native);Full-Stack+Web+%26+API+Architectures;Scalable+SaaS+Products" alt="Typing SVG" />
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3EC7F7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+Native+%26+Flutter+Developer;Backend+Specialist;AI-Integrated+Applications;Building+Scalable+Digital+Products" />
-</p>
+  <p align="center">
+    <a href="mailto:gulumabest694@gmail.com"><img src="https://img.shields.io/badge/Email-gulumabest694%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/guluma-best-1b2820329/"><img src="https://img.shields.io/badge/LinkedIn-Guluma%20Tafa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://upwork.com/freelancers/~01b4c1c0422cb412d7"><img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Talent-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>
+    <a href="https://guluma-tafa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-guluma--tafa.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  </p>
+</div>
 
-## About Me
+---
 
-I am a **Software Engineering student at Haramaya University** with a strong focus on **full-stack, backend, mobile, and AI-powered application development**.
-I specialize in building **scalable, real-world systems** that combine clean architecture, database-driven logic, intelligent automation, and modern user experiences.
+## ⚡ Executive Summary
 
-I have hands-on experience developing:
-- **Web, mobile, and backend systems**
-- **AI-integrated applications**
-- **Distributed and real-time systems**
-- **Database-driven platforms**
-- **Cross-platform applications using Flutter and React Native**
-- **Production-ready enterprise solutions**
+Software Engineer and AI Automation Specialist with 4+ years of experience shipping production SaaS platforms, autonomous AI agents, enterprise RAG pipelines, and cross-platform mobile apps (**Flutter & React Native**). 
 
-### Core Technologies
-- **Languages:** JavaScript, TypeScript, Dart, Java, PHP, Python
-- **Frameworks:** React, Next.js, React Native, Expo, Flutter, Node.js, Express
-- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
-- **Tools:** Git, GitHub, Docker, AWS, Firebase, Vercel
+I engineer practical, reliable AI systems integrated directly into databases, private APIs, and custom workflows rather than generic wrapper demos. Currently pursuing Software Engineering at Haramaya University, bridging computer science fundamentals with distributed systems and production architectures.
+
+---
+
+## 🤖 What I Build
+
+### 1. Production AI Agents & Automation
+* **Autonomous & Multi-Agent Systems:** Planner-worker patterns, function/tool calling pipelines, structured JSON outputs, and guardrailed flows using **FastAPI** and **Node.js**.
+* **Enterprise RAG Workflows:** Vector search over proprietary knowledge (PDFs, SQL/NoSQL stores, API catalogs) using embeddings, semantic ranking, and citation grounding.
+* **Conversational AI & Concierge:** Streaming responses, persistent context/memory, rate-limiting, and native **multilingual/localized support**.
+* **Voice & Vision:** End-to-end multimodal workflows using Whisper, TTS, speech streaming, and vision models.
+
+### 2. Cross-Platform Mobile Applications
+* High-performance iOS and Android applications built with **Flutter** and **React Native / Expo**.
+* Native device integrations, real-time sync via WebSockets/Firebase, offline-first local caching, and on-device or cloud AI inference.
+
+### 3. Full-Stack & SaaS Systems
+* End-to-end web apps with modern auth patterns (OAuth, JWT, RBAC), responsive UI/UX, usage-metered billing integrations, and automated CI/CD pipelines via Vercel, Docker, and AWS.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Fitness Coach App
-**Technologies:** React Native, Expo, TypeScript, AI APIs, Firebase
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 HealthGuard AI</h3>
+      <p><strong>Stack:</strong> React Native, FastAPI, Python, WebSockets, Firebase</p>
+      <ul>
+        <li>Multi-agent backend executing symptom screening, medication adherence, and health risk scoring.</li>
+        <li>Encrypted PHI storage, real-time clinician alerts via WebSockets, and offline-first capabilities.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎫 Help Desk Management System (HDMS)</h3>
+      <p><strong>Stack:</strong> React, Node.js, Express.js, PostgreSQL</p>
+      <ul>
+        <li>Enterprise ticketing platform with granular Role-Based Access Control (RBAC).</li>
+        <li>Automated ticket routing, SLA performance analytics, and dynamic audit logs.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ AI Trip Planner & Concierge</h3>
+      <p><strong>Stack:</strong> Flutter, Gemini/OpenAI API, Vector Search</p>
+      <ul>
+        <li>Context-aware travel planner generating day-by-day itineraries with real-time budget forecasting.</li>
+        <li>Tool calling for live place searches, booking workflows, and multi-language support.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💪 AI Fitness Coach Platform</h3>
+      <p><strong>Stack:</strong> React Native, Expo, TypeScript, AI APIs, Firebase</p>
+      <ul>
+        <li>Personalized workout and nutritional coaching driven by user progress metrics and targets.</li>
+        <li>Interactive tracking logs, adaptive feedback loops, and multi-device cloud sync.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-A next-generation AI-powered fitness platform designed to provide personalized workout plans, intelligent coaching, progress tracking, nutrition recommendations, and real-time fitness insights.
+<details>
+  <summary><strong>📂 View Additional Applications & Prototypes</strong></summary>
+  <br>
 
-**Key Skills:**
-- React Native & Expo
-- TypeScript
-- AI Integration
-- Mobile Architecture
-- State Management
-- Firebase Services
-- API Integration
-- Cross-platform Development
-
----
-
-### 🔹 Help Desk Management System (HDMS)
-**Technologies:** React, Node.js, Express.js, PostgreSQL
-
-A production-ready help desk and ticket management platform developed to streamline support operations, issue tracking, and service management workflows through role-based access control and responsive dashboards.
-
-**Key Skills:**
-- Full-Stack Development
-- React Ecosystem
-- Backend API Development
-- PostgreSQL Database Design
-- Authentication & Authorization
-- Enterprise System Architecture
-- RESTful APIs
-- Production Deployment
-
----
-
-## Academic & Personal Projects
-
-### 🔹 Student Management System
-**Technologies:** Java, OOP, Database Integration
-
-A desktop-based system designed using object-oriented principles to manage student registration, attendance tracking, and grade management efficiently.
-
-**Key Skills:**
-- Object-Oriented Design
-- Database-backed systems
-- Clean modular architecture
-
----
-
-### 🔹 Online Job Application System
-**Technologies:** PHP, SQL, HTML, CSS, JavaScript
-
-A full-stack web application enabling job posting, application submission, and applicant management.
-
-**Key Skills:**
-- Backend logic & CRUD systems
-- Relational database design
-- Business workflow modeling
+  * **Nova AI Assistant (Flutter, NLP APIs):** Multimodal voice and text mobile assistant designed for interactive user task handling.
+  * **Momentify Social Media (Next.js, TypeScript, MongoDB, Tailwind CSS):** Feed architecture, media upload pipelines, and responsive community interactions.
+  * **Food Delivery App (Flutter, REST, Firebase):** End-to-end order processing, menu management, and real-time state tracking.
+  * **Distributed Chat System (Java, RMI):** Client-server architecture exploring concurrency, socket handling, and network protocols.
+  * **Online Job Portal (PHP, MySQL, JavaScript):** Role-based recruiter dashboards, structured CV ingestion, and status management.
+</details>
 
 ---
 
-### 🔹 Chatting Application (Distributed Systems)
-**Technologies:** Java, RMI
+## 🛠️ Technical Arsenal
 
-A real-time chatting system developed using Java RMI to explore distributed system concepts.
+<div align="left">
 
-**Key Skills:**
-- Distributed systems fundamentals
-- Client-server architecture
-- Java networking concepts
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Dart` `Python` `Java` `PHP` `SQL` `HTML5/CSS3` |
+| **AI & Automation** | `OpenAI API` `Gemini API` `LangChain / LlamaIndex` `RAG Pipelines` `Tool Calling` `FastAPI` |
+| **Mobile Development** | `Flutter` `React Native` `Expo` `Android Studio` `State Management (Bloc/Provider/Redux)` |
+| **Frontend & UI** | `React.js` `Next.js` `Tailwind CSS` `Bootstrap` `Responsive Web Architecture` |
+| **Backend & Cloud** | `Node.js` `Express.js` `NestJS` `PostgreSQL` `MongoDB` `Firebase` `Supabase` `Docker` `Vercel` `AWS` |
+| **DevOps & Tools** | `Git` `GitHub Actions` `CI/CD` `Postman` `VS Code` |
 
----
-
-### 🔹 E-commerce Website
-**Technologies:** React, Firebase, JavaScript
-
-A fully responsive e-commerce platform featuring product browsing, shopping cart management, secure checkout, and user authentication.
-
-**Key Skills:**
-- Frontend architecture
-- Authentication systems
-- Cloud-backed applications
+</div>
 
 ---
 
-### 🔹 Food Delivery Mobile App
-**Technologies:** Flutter, REST APIs
+## 📊 Performance & Statistics
 
-A cross-platform food delivery mobile application enabling restaurant browsing, order placement, and real-time delivery tracking.
-
-**Key Skills:**
-- Mobile app development
-- API consumption
-- Real-time data handling
-
----
-
-### 🔹 Netflix Clone
-**Technologies:** React, Bootstrap, JavaScript, ExpressJS
-
-A movie streaming platform clone supporting dynamic content browsing and frontend-backend integration.
-
-**Key Skills:**
-- Full-stack JavaScript
-- UI/UX implementation
-- Media-rich applications
-
----
-
-### 🔹 Momentify – Social Media App
-**Technologies:** React, Next.js, MongoDB, TypeScript, Tailwind CSS
-
-A full-featured social media platform with user profiles, posts, and real-time interactions.
-
-**Key Skills:**
-- Advanced full-stack development
-- Real-time systems
-- Scalable application design
-
----
-
-### 🔹 Apple Website Clone
-**Technologies:** HTML5, CSS3, JavaScript
-
-A pixel-perfect recreation of Apple's landing page with responsive design and animations.
-
-**Key Skills:**
-- UI/UX precision
-- Frontend fundamentals
-- Attention to detail
-
----
-
-## 🧠 AI & Mobile-Focused Projects
-
-### 🔹 AI Trip Planner
-**Technologies:** Flutter, AI APIs
-
-An AI-powered mobile application designed to help users plan trips intelligently.
-
----
-
-### 🔹 Nova AI Assistant
-**Technologies:** Flutter, AI/NLP
-
-A Flutter-based AI-powered assistant designed to provide intelligent and interactive support.
-
----
-
-## 🧰 Tech Stack
-
-### Languages & Markup
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
----
-
-## 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 📬 Contact Me
-- **Email:** gulumabest694@gmail.com  
-- **Portfolio:** [https://guluma-tafa-twof.vercel.app/ ](https://guluma-tafa.vercel.app) 
-- **LinkedIn:** https://www.linkedin.com/in/guluma-best-1b2820329/  
-- **GitHub:** https://github.com/gulebest  
-- **Upwork:** https://www.upwork.com/freelancers/~01b4c1c0422cb412d7  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulebest&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulebest&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gulebest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulebest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165px"/>
 </p>
 
 ---
 
-## ✨ Philosophy
-```text
-Code. Learn. Build. Improve. Repeat.
+<div align="center">
+  <sub>Let's build something scalable. Reach out on <a href="https://www.linkedin.com/in/guluma-best-1b2820329/">LinkedIn</a> or hire directly via <a href="https://www.upwork.com/freelancers/~01b4c1c0422cb412d7">Upwork</a>.</sub>
+</div>
