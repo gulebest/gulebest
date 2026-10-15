@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center" style="font-weight: 600; font-size: 1.5rem; color:#334155;">
-  Software Engineering Student | Full Stack, Mobile & AI Developer
+  Software Engineering | Full Stack, Mobile & AI Developer
 </h3>
 
 <p align="center">
