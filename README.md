@@ -196,18 +196,6 @@ A cross-platform food delivery mobile application enabling restaurant browsing, 
 
 ---
 
-### 🔹 Netflix Clone
-**Technologies:** React, Bootstrap, JavaScript, ExpressJS
-
-A movie streaming platform clone supporting dynamic content browsing and frontend-backend integration.
-
-**Key Skills:**
-- Full-stack JavaScript
-- UI/UX implementation
-- Media-rich applications
-
----
-
 ### 🔹 Momentify – Social Media App
 **Technologies:** React, Next.js, MongoDB, TypeScript, Tailwind CSS
 
@@ -220,31 +208,12 @@ A full-featured social media platform with user profiles, posts, and real-time i
 
 ---
 
-### 🔹 Apple Website Clone
-**Technologies:** HTML5, CSS3, JavaScript
-
-A pixel-perfect recreation of Apple's landing page with responsive design and animations.
-
-**Key Skills:**
-- UI/UX precision
-- Frontend fundamentals
-- Attention to detail
-
----
-
 ## 🧠 AI & Mobile-Focused Projects
 
 ### 🔹 AI Trip Planner
 **Technologies:** Flutter, AI APIs
 
 An AI-powered mobile application designed to help users plan trips intelligently.
-
----
-
-### 🔹 Nova AI Assistant
-**Technologies:** Flutter, AI/NLP
-
-A Flutter-based AI-powered assistant designed to provide intelligent and interactive support.
 
 ---
 
