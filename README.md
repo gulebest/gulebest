@@ -19,8 +19,6 @@ I'm Guluma, an AI Automation Engineer with 4+ years shipping SaaS products, prod
 
 I build AI automation that does real work — not a wrapped ChatGPT demo. My bots talk to your database, call tools/APIs, run workflows, and return grounded answers on web and mobile.
 
-**Keywords:** AI Automation Engineer, AI Agent Developer, Chatbot Developer, LLM Engineer, OpenAI, Gemini, ChatGPT API, SaaS Developer, Flutter Developer, React Native Developer, Full-Stack Engineer.
-
 ---
 
 ## 🤖 AI Agents, Chatbots & Automation I Ship
@@ -32,8 +30,6 @@ I build AI automation that does real work — not a wrapped ChatGPT demo. My bot
 - Multilingual AI chatbots and localization-ready bots (locale-correct replies, not English-only wrappers)
 - Workflow automation: itinerary bots, booking assistants, recommendation engines, alerts, and admin ops
 - SaaS AI features: product copilots, AI dashboards, usage limits, and API-based AI automation
-
-**Keywords:** AI chatbot, AI agent, RAG, retrieval augmented generation, tool calling, function calling, OpenAI API, Gemini API, LangChain-style agents, FastAPI, voice AI, speech recognition, computer vision, multilingual chatbot, AI workflow automation, n8n-style automation, business process automation, prompt engineering, LLM integration.
 
 ---
 
@@ -51,8 +47,6 @@ I design and ship SaaS platforms end to end: authentication, user roles, subscri
 
 Cross-platform Android + iOS from one codebase, with AI inside the app: chatbots, recommendations, offline-first flows, Firebase auth, push notifications, and real-time updates.
 
-**Keywords:** Flutter developer, Dart, React Native developer, Expo, iOS app, Android app, cross-platform mobile app, Firebase, Firestore, push notifications, WebSockets, offline-first, AI mobile app, ChatGPT in mobile app, OpenAI in Flutter, OpenAI in React Native.
-
 ---
 
 ## 🏆 Selected Work
@@ -62,8 +56,6 @@ Cross-platform Android + iOS from one codebase, with AI inside the app: chatbots
 - **AI Trip Planner (Flutter + AI APIs)** — personalized itineraries, recommendation engine, ChatGPT/Gemini-style trip automation.
 - **Food delivery (Flutter + Firebase)** — real-time ordering, auth, and live status.
 - **E-commerce SaaS (React.js / Next.js)** — storefront, catalog, and business dashboard.
-
-**Keywords:** AI healthcare app, multi-agent AI, FastAPI, React Native, Flutter AI app, trip planner chatbot, food delivery app, e-commerce SaaS, Next.js e-commerce.
 
 ---
 
