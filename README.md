@@ -76,7 +76,6 @@ If you need AI automation, an AI agent, a chatbot, a SaaS platform, or a Flutter
 
 **Hire me for:** AI automation, AI agents, chatbots, SaaS, Flutter, React Native, Next.js, Node.js, NestJS, Firebase, OpenAI, Gemini, RAG, full-stack development.
 
----
 
 ## 📖 About Me
 
