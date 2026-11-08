@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3EC7F7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+Native+%26+Flutter+Developer;Backend+Specialist;AI-Integrated+Applications;Building+Scalable+Digital+Products" alt="Typing SVG" />
 </p>
 
----
+--
 ## 👨‍💻 Profile Overview
 
 I'm Guluma, an AI Automation Engineer with 4+ years shipping SaaS products, production AI agents, chatbots, LLM apps, and full-stack systems in Flutter, React Native, Next.js, Node.js, and NestJS.
