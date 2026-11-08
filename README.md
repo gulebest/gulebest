@@ -17,7 +17,6 @@
 I'm Guluma, an AI Automation Engineer with 4+ years shipping SaaS products, production AI agents, chatbots, LLM apps, and full-stack systems in Flutter, React Native, Next.js, Node.js, and NestJS.
 
 I build AI automation that does real work — not a wrapped ChatGPT demo. My bots talk to your database, call tools/APIs, run workflows, and return grounded answers on web and mobile.
-
 ---
 
 ## 🤖 AI Agents, Chatbots & Automation I Ship
