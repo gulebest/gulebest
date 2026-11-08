@@ -85,7 +85,6 @@ I have hands-on experience developing:
 - **Frameworks:** React, Next.js, React Native, Expo, Flutter, Node.js, Express
 - **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
 - **Tools:** Git, GitHub, Docker, AWS, Firebase, Vercel
-
 ---
 
 ## 🚀 Featured Projects
