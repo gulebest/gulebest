@@ -28,7 +28,6 @@ I build AI automation that does real work — not a wrapped ChatGPT demo. My bot
 - Multilingual AI chatbots and localization-ready bots (locale-correct replies, not English-only wrappers)
 - Workflow automation: itinerary bots, booking assistants, recommendation engines, alerts, and admin ops
 - SaaS AI features: product copilots, AI dashboards, usage limits, and API-based AI automation
-
 ---
 
 ## 💻 SaaS & Full-Stack Products
