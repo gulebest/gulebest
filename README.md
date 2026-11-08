@@ -54,7 +54,6 @@ Cross-platform Android + iOS from one codebase, with AI inside the app: chatbots
 - **AI Trip Planner (Flutter + AI APIs)** — personalized itineraries, recommendation engine, ChatGPT/Gemini-style trip automation.
 - **Food delivery (Flutter + Firebase)** — real-time ordering, auth, and live status.
 - **E-commerce SaaS (React.js / Next.js)** — storefront, catalog, and business dashboard.
-
 ---
 
 ## ⚙️ How I Work
