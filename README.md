@@ -62,7 +62,6 @@ Clean architecture, production-ready TypeScript/JavaScript, and clear communicat
 If you need AI automation, an AI agent, a chatbot, a SaaS platform, or a Flutter / React Native / full-stack app, send a message with the outcome you want. I'll tell you the fastest way to build it.
 
 **Hire me for:** AI automation, AI agents, chatbots, SaaS, Flutter, React Native, Next.js, Node.js, NestJS, Firebase, OpenAI, Gemini, RAG, full-stack development.
-
 ---
 
 ## 📖 About Me
