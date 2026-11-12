@@ -6,7 +6,6 @@
 <h3 align="center" style="font-weight: 600; font-size: 1.5rem; color:#334155;">
   Software Engineering | Full Stack, Mobile & AI Developer
 </h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3EC7F7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+Native+%26+Flutter+Developer;Backend+Specialist;AI-Integrated+Applications;Building+Scalable+Digital+Products" alt="Typing SVG" />
 </p>
