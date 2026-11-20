@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+
 <h1 align="center" style="font-weight: 700; font-size: 3rem; color:#0EA5E9;">
   Hi 👋, I'm <span style="color:#0284C7;">Gule Best</span>
 </h1>
