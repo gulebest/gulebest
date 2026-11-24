@@ -27,7 +27,6 @@ I build AI automation that does real work — not a wrapped ChatGPT demo. My bot
 - SaaS AI features: product copilots, AI dashboards, usage limits, and API-based AI automation
   
 ---
-
 ## 💻 SaaS & Full-Stack Products
 
 I design and ship SaaS platforms end to end: authentication, user roles, subscriptions-ready backends, admin dashboards, REST + GraphQL APIs, and production UIs.
