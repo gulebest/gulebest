@@ -10,7 +10,7 @@
 </p>
 --
 ## 👨‍💻 Profile Overview
-Profile Overview
+Profile 
 
 I'm Guluma, an AI Automation Engineer with 4+ years shipping SaaS products, production AI agents, chatbots, LLM apps, and full-stack systems in Flutter, React Native, Next.js, Node.js, and NestJS.
 
